@@ -16,7 +16,7 @@
     "td-agent"
   ],
   "dependencies": {
-    "fluent-logger-node": "latest"
+    "fluent-logger": "latest"
   },
   "devDependencies": {
     "vows": "~0.7.0"
