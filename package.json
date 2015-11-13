@@ -22,14 +22,14 @@
     "vows": "~0.7.0"
   },
   "peerDependencies": {
-    "winston": "latest"
+    "winston": "^2.1.0"
   },
   "main": "./lib/winston-fluent",
   "scripts": {
     "test": "vows test/*-test.js --spec"
   },
   "engines": {
-    "node": "0.8.x"
+    "node": "^0.10.x"
   },
   "readmeFilename": "README.md",
   "gitHead": "3384ee5b05515b38e79b739c54479840707c3142",
